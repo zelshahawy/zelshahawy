@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android Development, JavaScript and React**
 
-- 👨‍💻 My portfolio website is at [https://zelshahawy.github.io/Website-Portfolio/](https://zelshahawy.github.io/Website-Portfolio/)
+- 👨‍💻 My portfolio website is at [HERE](https://zelshahawy.github.io/Website-Portfolio/)
 
 - 💬 Ask me about **Python, CSS/HTML and Arduino IDE**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ziad-elshahawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ziad-elshahawy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ziad-elshahawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ziad-elshahawy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zelshahawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zelshahawy" height="30" width="40" /></a>
 </p>
 
