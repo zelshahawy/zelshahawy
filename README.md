@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android Development, JavaScript and React**
 
-- 👨‍💻 My portfolio website is at [HERE](https://zelshahawy.github.io/Website-Portfolio/)
+- 👨‍💻 My portfolio website is [HERE](https://zelshahawy.github.io/Website-Portfolio/)
 
 - 💬 Ask me about **Python, CSS/HTML and Arduino IDE**
 
