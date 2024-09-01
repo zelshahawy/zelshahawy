@@ -6,7 +6,7 @@
 
 <li>I’m currently learning Android Development, JavaScript and React</li>
 
-<li>My portfolio website is [HERE](https://zelshahawy.github.io/Website-Portfolio/)</li>
+<li>My portfolio website is <a href= "https://zelshahawy.github.io/Website-Portfolio/"> HERE </a></li>
 </ul>
 Reach me at <a href="mailto:Zelshahawy@uchicago.edu">Zelshahawy@uchicago.edu</a>
 
