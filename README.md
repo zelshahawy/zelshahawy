@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ziad Elshahawy</h1>
 <h3 align="center">A passionate developer from Egypt interested in Signal Processing and Machine Learning.</h3>
 <ul>
-I’m currently working on improving my text analyzer project **Text-Analyzer**
+I’m currently working on improving my text analyzer project <bold>Text-Analyzer</bold>
 
 I’m currently learning **Android Development, JavaScript and React**
 
