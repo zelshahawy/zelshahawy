@@ -8,7 +8,7 @@
 
 <li>My portfolio website is [HERE](https://zelshahawy.github.io/Website-Portfolio/)</li>
 </ul>
-Reach me at <Zelshahawy@uchicago.edu>
+Reach me at [Zelshahawy@uchicago.edu](Zelshahawy@uchicago.edu)
 
 Know about my experiences [https://drive.google.com/file/d/1YPPO8rxKb49uUTqs3VkpTTOFmgK6egop/view?usp=sharing](https://drive.google.com/file/d/1YPPO8rxKb49uUTqs3VkpTTOFmgK6egop/view?usp=sharing)
 
