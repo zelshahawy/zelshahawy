@@ -1,5 +1,5 @@
 <div align="center"> <img height="150" src="https://github.com/zelshahawy/zelshahawy/blob/main/giphy.gif"> </div>
-<h1 align="center">Hi 👋, I'm Ziad Elshahawy</h1>
+<h1 align="center">Hi! I'm Ziad Elshahawy</h1>
 <h3 align="center">A passionate developer from Egypt interested in Signal Processing and Machine Learning.</h3>
 <ul>
 <li>I’m currently working on improving my text analyzer project <bold>Text-Analyzer</bold></li>
@@ -7,9 +7,9 @@
 <li>I’m currently learning Data Science, JavaScript and React</li>
 </ul>
 My portfolio website is <a href= "https://zelshahawy.github.io/Website-Portfolio/"> HERE </a>.<br>
-Reach me at <a href="mailto:Zelshahawy@uchicago.edu">Zelshahawy@uchicago.edu</a><br>
+Reach me at <a href="mailto:Zelshahawy@uchicago.edu">Zelshahawy@uchicago.edu</a>.<br>
 
-Know about my experiences [HERE](https://drive.google.com/file/d/1YPPO8rxKb49uUTqs3VkpTTOFmgK6egop/view?usp=sharing)
+Know about my experiences [HERE](https://drive.google.com/file/d/1YPPO8rxKb49uUTqs3VkpTTOFmgK6egop/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
