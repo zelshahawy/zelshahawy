@@ -1,19 +1,20 @@
 <div align="center"> <img height="150" src="https://github.com/zelshahawy/zelshahawy/blob/main/giphy.gif"> </div>
 <h1 align="center">Hi 👋, I'm Ziad Elshahawy</h1>
 <h3 align="center">A passionate developer from Egypt interested in Signal Processing and Machine Learning.</h3>
+<ul>
+I’m currently working on improving my text analyzer project **Text-Analyzer**
 
-- 🔭 I’m currently working on improving my text analyzer project **Text-Analyzer**
+I’m currently learning **Android Development, JavaScript and React**
 
-- 🌱 I’m currently learning **Android Development, JavaScript and React**
+My portfolio website is [HERE](https://zelshahawy.github.io/Website-Portfolio/)
 
-- 👨‍💻 My portfolio website is [HERE](https://zelshahawy.github.io/Website-Portfolio/)
+Ask me about **Python, CSS/HTML and Arduino IDE**
 
-- 💬 Ask me about **Python, CSS/HTML and Arduino IDE**
+How to reach me **Zelshahawy@uchicago.edu**
 
-- 📫 How to reach me **Zelshahawy@uchicago.edu**
+Know about my experiences [https://drive.google.com/file/d/1YPPO8rxKb49uUTqs3VkpTTOFmgK6egop/view?usp=sharing](https://drive.google.com/file/d/1YPPO8rxKb49uUTqs3VkpTTOFmgK6egop/view?usp=sharing)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YPPO8rxKb49uUTqs3VkpTTOFmgK6egop/view?usp=sharing](https://drive.google.com/file/d/1YPPO8rxKb49uUTqs3VkpTTOFmgK6egop/view?usp=sharing)
-
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ziad-elshahawy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ziad-elshahawy" height="30" width="40" /></a>
