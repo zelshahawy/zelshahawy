@@ -8,9 +8,9 @@
 
 <li>My portfolio website is [HERE](https://zelshahawy.github.io/Website-Portfolio/)</li>
 </ul>
-Reach me at [Zelshahawy@uchicago.edu](Zelshahawy@uchicago.edu)
+Reach me at [Zelshahawy@uchicago.edu](mailto:Zelshahawy@uchicago.edu)
 
-Know about my experiences [https://drive.google.com/file/d/1YPPO8rxKb49uUTqs3VkpTTOFmgK6egop/view?usp=sharing](https://drive.google.com/file/d/1YPPO8rxKb49uUTqs3VkpTTOFmgK6egop/view?usp=sharing)
+Know about my experiences [HERE](https://drive.google.com/file/d/1YPPO8rxKb49uUTqs3VkpTTOFmgK6egop/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
