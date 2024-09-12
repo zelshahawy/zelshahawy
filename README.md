@@ -1,4 +1,3 @@
-<div align="center"> <img height="150" src="https://github.com/zelshahawy/zelshahawy/blob/main/giphy.gif"> </div>
 <h1 align="center">Hi! I'm Ziad Elshahawy</h1>
 <h3 align="center">A passionate developer from Egypt interested in Signal Processing and Machine Learning.</h3>
 <ul>
