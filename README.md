@@ -1,2 +1,3 @@
 # Sup
-If you have any questions, send me an email [here](ziadazmyahmed@gmail.com)
+# Current Book Recommendation: hayy ibn yaqzan by Ibn Tufayl 
+If you have any questions\inquiries, send me an email [here](mailto:ziadazmyahmed@gmail.com)
